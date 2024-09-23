@@ -1,7 +1,6 @@
 # DonorSearch: Сегментация пользователей  
 [**ссылка на презентацию**](https://drive.google.com/file/d/1xdB_O46fPOCIzDM9sp20qrdN_anQd7wi/view?usp=sharing)  
 [**ссылка на colab с рабочими визуализациями**](https://colab.research.google.com/drive/1vxg0OW2g0vWeQe2oUWCRDSoc43S_-V_x?usp=sharing)  
-[**ссылка на блокнот**]()  
 
 **Заказчик проекта: АНО "Донор-Сёрч (Поиск доноров)"**  
 Миссия: мотивировать людей становиться донорами. С DonorSearch легче пройти путь от первой донации к регулярным и к званию Почетного донора.  
